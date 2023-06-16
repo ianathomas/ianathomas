@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there, my name is Ian Thomas<br>A former culinary professional of many years making THE BIG JUMP into software development<br>Always looking for the next exciting coding project, professionally or otherwise<br>
+# 💫 Ian Thomas:
+Hi there, <br>A former culinary professional of many years making THE BIG JUMP into software development<br>Always looking for the next exciting coding project, professionally or otherwise<br>
 
 
 # 💻 Tech Stack:
